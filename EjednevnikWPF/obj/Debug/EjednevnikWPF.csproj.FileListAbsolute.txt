@@ -1,0 +1,38 @@
+C:\Users\LASHA\Desktop\10 лаба\EjednevnikWPF\obj\Debug\EjednevnikWPF.csproj.AssemblyReference.cache
+C:\Users\LASHA\Desktop\10 лаба\EjednevnikWPF\obj\Debug\EjednevnikWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\LASHA\Desktop\10 лаба\EjednevnikWPF\obj\Debug\MainWindow.g.cs
+C:\Users\LASHA\Desktop\10 лаба\EjednevnikWPF\obj\Debug\App.g.cs
+C:\Users\LASHA\Desktop\10 лаба\EjednevnikWPF\obj\Debug\EjednevnikWPF_MarkupCompile.cache
+C:\Users\LASHA\Desktop\10 лаба\EjednevnikWPF\obj\Debug\EjednevnikWPF_MarkupCompile.lref
+C:\Users\LASHA\Desktop\10 лаба\EjednevnikWPF\bin\Debug\EjednevnikWPF.exe.config
+C:\Users\LASHA\Desktop\10 лаба\EjednevnikWPF\bin\Debug\EjednevnikWPF.exe
+C:\Users\LASHA\Desktop\10 лаба\EjednevnikWPF\bin\Debug\EjednevnikWPF.pdb
+C:\Users\LASHA\Desktop\10 лаба\EjednevnikWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LASHA\Desktop\10 лаба\EjednevnikWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LASHA\Desktop\10 лаба\EjednevnikWPF\obj\Debug\MainWindow.baml
+C:\Users\LASHA\Desktop\10 лаба\EjednevnikWPF\obj\Debug\EjednevnikWPF.g.resources
+C:\Users\LASHA\Desktop\10 лаба\EjednevnikWPF\obj\Debug\EjednevnikWPF.Properties.Resources.resources
+C:\Users\LASHA\Desktop\10 лаба\EjednevnikWPF\obj\Debug\EjednevnikWPF.csproj.GenerateResource.cache
+C:\Users\LASHA\Desktop\10 лаба\EjednevnikWPF\obj\Debug\EjednevnikWPF.csproj.CoreCompileInputs.cache
+C:\Users\LASHA\Desktop\10 лаба\EjednevnikWPF\obj\Debug\EjednevnikWPF.csproj.CopyComplete
+C:\Users\LASHA\Desktop\10 лаба\EjednevnikWPF\obj\Debug\EjednevnikWPF.exe
+C:\Users\LASHA\Desktop\10 лаба\EjednevnikWPF\obj\Debug\EjednevnikWPF.pdb
+C:\C#\EjednevnikWPF\bin\Debug\EjednevnikWPF.exe.config
+C:\C#\EjednevnikWPF\bin\Debug\EjednevnikWPF.exe
+C:\C#\EjednevnikWPF\bin\Debug\EjednevnikWPF.pdb
+C:\C#\EjednevnikWPF\bin\Debug\Newtonsoft.Json.dll
+C:\C#\EjednevnikWPF\bin\Debug\Newtonsoft.Json.xml
+C:\C#\EjednevnikWPF\obj\Debug\EjednevnikWPF.csproj.AssemblyReference.cache
+C:\C#\EjednevnikWPF\obj\Debug\EjednevnikWPF.csproj.SuggestedBindingRedirects.cache
+C:\C#\EjednevnikWPF\obj\Debug\MainWindow.g.cs
+C:\C#\EjednevnikWPF\obj\Debug\App.g.cs
+C:\C#\EjednevnikWPF\obj\Debug\EjednevnikWPF_MarkupCompile.cache
+C:\C#\EjednevnikWPF\obj\Debug\EjednevnikWPF_MarkupCompile.lref
+C:\C#\EjednevnikWPF\obj\Debug\MainWindow.baml
+C:\C#\EjednevnikWPF\obj\Debug\EjednevnikWPF.g.resources
+C:\C#\EjednevnikWPF\obj\Debug\EjednevnikWPF.Properties.Resources.resources
+C:\C#\EjednevnikWPF\obj\Debug\EjednevnikWPF.csproj.GenerateResource.cache
+C:\C#\EjednevnikWPF\obj\Debug\EjednevnikWPF.csproj.CoreCompileInputs.cache
+C:\C#\EjednevnikWPF\obj\Debug\EjednevnikWPF.csproj.CopyComplete
+C:\C#\EjednevnikWPF\obj\Debug\EjednevnikWPF.exe
+C:\C#\EjednevnikWPF\obj\Debug\EjednevnikWPF.pdb
